@@ -1,6 +1,6 @@
 # Diego Merino - Personal Website
 
-Welcome to my personal website! This project serves as my online portfolio and CV, showcasing my professional experience, skills, and personal projects. The site is fully responsive, ensuring an optimal user experience on all devices.
+Welcome to my personal website!
 
 ## 🌟 Key Features
 
@@ -23,8 +23,6 @@ Welcome to my personal website! This project serves as my online portfolio and C
   
 ## 📂 Project Structure
 
-
-```markdown
 📁
 ├── 📁 assets
 │   ├── 📁 certificates
@@ -51,7 +49,6 @@ Welcome to my personal website! This project serves as my online portfolio and C
 ├── 📄 projects.html
 ├── 📄 resume.html
 └── 📄 README.md
-```
 
 ## 🚀 Live Demo
 
