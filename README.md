@@ -1,7 +1,5 @@
 # Diego Merino - Personal Website
 
-Welcome to my personal website!
-
 ## 🌟 Key Features
 
 - Responsive design
@@ -23,6 +21,8 @@ Welcome to my personal website!
   
 ## 📂 Project Structure
 
+
+```markdown
 📁
 ├── 📁 assets
 │   ├── 📁 certificates
@@ -49,6 +49,7 @@ Welcome to my personal website!
 ├── 📄 projects.html
 ├── 📄 resume.html
 └── 📄 README.md
+```
 
 ## 🚀 Live Demo
 
